@@ -1,5 +1,5 @@
 <img src="https://github.com/s17200/s17200/blob/main/helloworld_finished.png" alt="label" width="1210px" height="200" />
-<h1 align="center">Hi 👋, I'm Versha Kumari</h1>
+<h1 align="center">Hi 👋, I'm Versha </h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <div display="flex" width="100%">
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **java,DSA,javascript,css,react**
 
-- 📫 How to reach me **sonvanesaurabh7@gmail.com**
+- 📫 How to reach me **vvarsu829@gmail.com**
     
 </div>
 
