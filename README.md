@@ -32,7 +32,7 @@
 <h3 align="center">🔍:Connect with me:</h3>
 <hr/>
 <p align="center">
-<a href="linkedin.com/in/versha-kumari-87206a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saurabh-sonvane-64106017b" height="30" width="40" /></a>
+<a href="linkedin.com/in/versha-kumari-87206a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/versha-kumari-87206a20a" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabh_sonvane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_sonvane_" height="30" width="40" /></a>
 <a href="https://discord.gg/#7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saurabh#7095" height="30" width="40" /></a>
 </p>
