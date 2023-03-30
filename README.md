@@ -10,9 +10,10 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=
+VershaKumari264&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
 
-- 🔭 I’m currently learning React(https://bright-halva-d71d53.netlify.app/project.html)
+- 🔭 I’m currently learning React
 
 - 🌱 I’m currently learning **Full Stack Web**
 
